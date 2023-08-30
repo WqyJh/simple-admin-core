@@ -40,9 +40,27 @@
 		"email_log": "Email Log",
 		"sms_provider": "SMS Provider",
 		"sms_log": "SMS Log",
-		"message_sender": "Send Message"
+		"message_sender": "Send Message",
+		"article_category": "Article Category",
+		"article_tag": "Article Tag",
+		"article": "Article"
 	},
 	"apiDesc": {
+		"createArticleTag": "Create a article tag",
+		"updateArticleTag": "Update the article tag",
+		"deleteArticleTag": "Delete article tags",
+		"getArticleTagList": "Get article tag list",
+		"getArticleTagById": "Get article tag by ID",
+		"createArticleCategory": "Create a article category",
+		"updateArticleCategory": "Update the article category",
+		"deleteArticleCategory": "Delete article categories",
+		"getArticleCategoryList": "Get article category list",
+		"getArticleCategoryById": "Get article category by ID",
+		"createArticle": "Create a article",
+		"updateArticle": "Update the article",
+		"deleteArticle": "Delete articles",
+		"getArticleList": "Get article list",
+		"getArticleById": "Get article by ID",
 		"sendEmail": "Send Email",
 		"sendSms": "Send SMS",
 		"createEmailLog": "Create a email log",
@@ -202,7 +220,11 @@
 		"taskManagement": "Scheduled Task",
 		"emailProviderManagement": "Email Provider",
 		"smsProviderManagement": "SMS Provider",
-		"messageCenterManagement": "Message Center"
+		"messageCenterManagement": "Message Center",
+		"cms": "Article",
+		"articleManagement": "Article",
+		"articleCategoryManagement": "Category",
+		"articleTagManagement": "Tag"
 	},
 	"login": {
 		"loginSuccessTitle": "Login successful",

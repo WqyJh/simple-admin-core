@@ -40,9 +40,27 @@
 		"email_log": "电子邮件发送日志",
 		"sms_provider": "短信服务配置",
 		"sms_log": "短信发送日志",
-		"message_sender": "消息发送"
+		"message_sender": "消息发送",
+		"article_category": "文章栏目",
+		"article_tag": "文章标签",
+		"article": "文章管理"
 	},
 	"apiDesc": {
+		"createArticleTag": "创建文章标签",
+		"updateArticleTag": "更新文章标签",
+		"deleteArticleTag": "删除文章标签",
+		"getArticleTagList": "获取文章标签列表",
+		"getArticleTagById": "通过ID获取文章标签",
+		"createArticleCategory": "创建文章栏目",
+		"updateArticleCategory": "更新文章栏目",
+		"deleteArticleCategory": "删除文章栏目",
+		"getArticleCategoryList": "获取文章栏目列表",
+		"getArticleCategoryById": "通过ID获取文章栏目",
+		"createArticle": "创建文章",
+		"updateArticle": "更新文章",
+		"deleteArticle": "删除文章",
+		"getArticleList": "获取文章列表",
+		"getArticleById": "通过ID获取文章",
 		"sendEmail": "发送电子邮件",
 		"sendSms": "发送短信",
 		"createEmailLog": "创建邮件发送日志",
@@ -207,7 +225,11 @@
 		"taskManagement": "定时任务管理",
 		"emailProviderManagement": "邮箱服务配置管理",
 		"smsProviderManagement": "短信服务配置管理",
-		"messageCenterManagement": "消息中心管理"
+		"messageCenterManagement": "消息中心管理",
+		"cms": "文章管理",
+		"articleManagement": "文章管理",
+		"articleCategoryManagement": "栏目管理",
+		"articleTagManagement": "标签管理"
 	},
 	"login": {
 		"loginSuccessTitle": "登录成功",
