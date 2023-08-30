@@ -229,7 +229,8 @@
 		"cms": "文章管理",
 		"articleManagement": "文章管理",
 		"articleCategoryManagement": "栏目管理",
-		"articleTagManagement": "标签管理"
+		"articleTagManagement": "标签管理",
+		"articleModify": "文章编辑"
 	},
 	"login": {
 		"loginSuccessTitle": "登录成功",

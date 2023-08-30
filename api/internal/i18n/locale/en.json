@@ -43,7 +43,8 @@
 		"message_sender": "Send Message",
 		"article_category": "Article Category",
 		"article_tag": "Article Tag",
-		"article": "Article"
+		"article": "Article",
+		"articleModify": "Edit Article"
 	},
 	"apiDesc": {
 		"createArticleTag": "Create a article tag",
