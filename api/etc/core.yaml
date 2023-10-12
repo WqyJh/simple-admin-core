@@ -41,6 +41,9 @@ ProjectConf:
   SmsTemplateId: xxx  # The template id for sms
   SmsAppId: xxx  # the app id for sms
   SmsSignName: xxx  # the signature name of sms
+  RegisterVerify: captcha # 注册验证方式，支持 captcha, email, sms, sms_or_email
+  LoginVerify: captcha #  登录验证方式，支持 captcha, email, sms, sms_or_email, all
+  ResetVerify: email # 重置验证方式，支持  email, sms, sms_or_email
 
 Prometheus:
   Host: 0.0.0.0
@@ -87,6 +90,6 @@ McmsRpc:
 
 #Telemetry:
 #  Name: core-rpc
-#  Endpoint: http://127.0.0.1:14268/api/traces  # use your jaeger url
+#  Endpoint: localhost:4317  # use your jaeger url
 #  Sampler: 1.0
-#  Batcher: jaeger
+#  Batcher: otlpgrpc

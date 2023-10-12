@@ -9,7 +9,7 @@
 [![Vben Admin](https://img.shields.io/badge/Vben%20Admin-v2.10.0-yellow.svg)](https://vvbin.cn/doc-next/)
 [![Ent](https://img.shields.io/badge/Ent-v0.12.3-blue.svg)](https://entgo.io/)
 [![Casbin](https://img.shields.io/badge/Casbin-v2.73.0-orange.svg)](https://github.com/casbin/casbin)
-[![Release](https://img.shields.io/badge/Release-v1.1.0-green.svg)](https://github.com/suyuan32/simple-admin-core/releases)
+[![Release](https://img.shields.io/badge/Release-v1.1.4-green.svg)](https://github.com/suyuan32/simple-admin-core/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![SimpleAdmin](https://dcbadge.vercel.app/api/server/NDED5p2hJk)](https://discord.gg/NDED5p2hJk)
 ![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%87%A0%E9%A2%97%E9%85%A5-blue)
@@ -19,6 +19,8 @@
 
 Simple Admin 是一个开箱即用的分布式微服务后端管理系统，基于go-zero开发，为开发中大型后台提供了丰富的功能，支持三端代码生成。
 官方自带多种扩展，助力中小企业快速上云，快速迭代。适合用于微服务学习和商用，开源免费。
+
+## 注意文档域名已更换为 `doc.ryansu.tech`
 
 ## [Goctls](https://github.com/suyuan32/goctls)
 
@@ -64,7 +66,8 @@ Simple Admin 是一个开箱即用的分布式微服务后端管理系统，基�
 ## 预览
 
 ### 在线预览
-[在线预览](http://101.132.124.135/#/dashboard)
+
+[在线预览](http://101.132.124.135:8080/)
 账号 admin
 密码 simple-admin
 #### 只读，不可修改和注册
@@ -74,7 +77,7 @@ Simple Admin 是一个开箱即用的分布式微服务后端管理系统，基�
 
 ## 文档
 
-[Simple Admin 文档](https://doc.ryansu.pro)
+[Simple Admin 文档](https://doc.ryansu.tech)
 
 
 - go-zero
@@ -92,7 +95,7 @@ Simple Admin 是一个开箱即用的分布式微服务后端管理系统，基�
 
 ## 快速开始
 
-[快速开始文档](https://doc.ryansu.pro/zh/guide/basic-config/env_setting.html)
+[快速开始文档](https://doc.ryansu.tech/zh/guide/basic-config/env_setting.html)
 
 ## 更新日志
 
@@ -141,17 +144,12 @@ Simple Admin 是一个开箱即用的分布式微服务后端管理系统，基�
     - `wip` 开发中
 
 ## 交流群
-> QQ 801043319 
 
->[Discord](https://discord.gg/NDED5p2hJk)
+> [Discord](https://discord.gg/NDED5p2hJk)
 
 > [论坛](https://github.com/suyuan32/simple-admin-core/discussions)
 
-> 微信群
-
-<div align="center">
-<img src="https://doc.ryansu.pro/assets/contact.png" width="250px" height="320px"/>
-</div>
+> 关注公众号 《几颗酥》 加入微信群
 
 ## Stars
 
