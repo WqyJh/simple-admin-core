@@ -46,9 +46,15 @@
 		"message_sender": "消息发送",
 		"article_category": "文章栏目",
 		"article_tag": "文章标签",
-		"article": "文章管理"
+		"article": "文章管理",
+		"article_comment": "文章评论"
 	},
 	"apiDesc": {
+		"createArticleComment": "创建文章评论",
+		"updateArticleComment": "更新文章评论",
+		"deleteArticleComment": "删除文章评论",
+		"getArticleCommentList": "获取文章评论列表",
+		"getArticleCommentById": "通过ID获取文章评论",
         "createArticleTag": "创建文章标签",
         "updateArticleTag": "更新文章标签",
         "deleteArticleTag": "删除文章标签",
@@ -252,7 +258,8 @@
         "articleManagement": "文章管理",
         "articleCategoryManagement": "栏目管理",
         "articleTagManagement": "标签管理",
-        "articleModify": "文章编辑"
+		"articleModify": "文章编辑",
+		"articleCommentManagement": "文章评论管理"
 	},
 	"login": {
 		"loginSuccessTitle": "登录成功",

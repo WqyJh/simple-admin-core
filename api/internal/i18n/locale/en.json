@@ -47,9 +47,15 @@
 		"article_category": "Article Category",
 		"article_tag": "Article Tag",
 		"article": "Article",
-		"articleModify": "Edit Article"
+		"articleModify": "Edit Article",
+		"article_comment": "Article Comment"
 	},
 	"apiDesc": {
+		"createArticleComment": "Create a article comment",
+		"updateArticleComment": "Update the article comment",
+		"deleteArticleComment": "Delete article comments",
+		"getArticleCommentList": "Get article comment list",
+		"getArticleCommentById": "Get article comment by ID",
         "createArticleTag": "Create a article tag",
         "updateArticleTag": "Update the article tag",
         "deleteArticleTag": "Delete article tags",
@@ -247,7 +253,8 @@
         "cms": "Article",
         "articleManagement": "Article",
         "articleCategoryManagement": "Category",
-        "articleTagManagement": "Tag"
+		"articleTagManagement": "Tag",
+		"articleCommentManagement": "Article Comment"
 	},
 	"login": {
 		"loginSuccessTitle": "Login successful",
