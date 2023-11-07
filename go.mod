@@ -137,4 +137,4 @@ require (
 	sigs.k8s.io/yaml v1.3.0 // indirect
 )
 
-replace github.com/zeromicro/go-zero v1.6.0 => github.com/suyuan32/simple-admin-tools v1.6.0
+replace github.com/zeromicro/go-zero v1.6.0 => github.com/WqyJh/simple-admin-tools v1.6.0-2
