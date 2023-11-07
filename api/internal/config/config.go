@@ -5,6 +5,7 @@ import (
 	"github.com/suyuan32/simple-admin-common/i18n"
 	"github.com/suyuan32/simple-admin-common/plugins/casbin"
 	"github.com/suyuan32/simple-admin-common/utils/captcha"
+	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/core/stores/redis"
 	"github.com/zeromicro/go-zero/rest"
 	"github.com/zeromicro/go-zero/zrpc"
@@ -12,6 +13,7 @@ import (
 
 type Config struct {
 	rest.RestConf
+	conf.SecurityConf
 	Auth         rest.AuthConf
 	RedisConf    redis.RedisConf
 	CoreRpc      zrpc.RpcClientConf

@@ -21,6 +21,7 @@ require (
 	ariga.io/atlas v0.14.1-0.20230918065911-83ad451a4935 // indirect
 	ariga.io/entcache v0.1.1-0.20230414114609-164fed2e1c70 // indirect
 	github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible // indirect
+	github.com/WqyJh/confcrypt v0.1.0 // indirect
 	github.com/agext/levenshtein v1.2.3 // indirect
 	github.com/apparentlymart/go-textseg/v13 v13.0.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
@@ -137,4 +138,4 @@ require (
 	sigs.k8s.io/yaml v1.3.0 // indirect
 )
 
-replace github.com/zeromicro/go-zero v1.6.0 => github.com/WqyJh/simple-admin-tools v1.6.0-2
+replace github.com/zeromicro/go-zero v1.6.0 => github.com/WqyJh/simple-admin-tools v1.6.0-3
